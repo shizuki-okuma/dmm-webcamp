@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+.main-visual {
+  width:100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  
+}
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+.main-item {
+  width: 840px;
+  color: #C0C0C0;
+  border: solid #C0C0C0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom-width: 1px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+a {
+  color: #C0C0C0;
+}
+.main-item-image {
+
+}  
