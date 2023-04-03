@@ -1,3 +1,8 @@
-$(document).ready(function () {
-  $('body').html('<h1>Hello jQuery!!</h1>');
+(()=>{
+        const $ = jQuery;
+        const $element = $( "id" );
+})();
+
+$(function(){
+  $('.box1').slideDown();
 });
